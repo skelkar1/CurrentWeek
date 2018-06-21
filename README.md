@@ -2,6 +2,8 @@
 
 This is swift project to show current week horizontally. Week starts with Sunday. Today and forthcoming days can be selected and desired action can be perfored when selection is made. You can customize today's highlight color as well as forthcoming days selection color.
 
+![Output sample](https://github.com/skelkar1/CurrentWeek/blob/master/CurrentWeek.gif)
+
 # Installation
 At present project only support maual installation. To include CurrentWeek into your project add following two file into your project:
   1. currentWeekView.swift
